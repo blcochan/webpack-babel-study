@@ -1,0 +1,27 @@
+{
+  "name": "webpack-babel-study",
+  "version": "1.0.0",
+  "description": "Webpack &amp; Babel study repository",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blcochan/webpack-babel-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blcochan/webpack-babel-study/issues"
+  },
+  "homepage": "https://github.com/blcochan/webpack-babel-study#readme"
+}
