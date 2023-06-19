@@ -4,6 +4,9 @@
   "description": "Webpack &amp; Babel study repository",
   "main": "index.js",
   "dependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "html-webpack-plugin": "^5.5.3",
+    "mini-css-extract-plugin": "^2.7.6",
     "react": "^18.2.0"
   },
   "devDependencies": {
